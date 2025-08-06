@@ -1,7 +1,3 @@
-I will update your `README.md` file to include sections on how to use Locust for performance testing and how to set up and use the Streamlit UI for API testing.
-
------
-
 # trust-registry-java-rest-api
 
 This project provides a Spring Boot RESTful API that acts as a client for a Hyperledger Fabric blockchain network, specifically interacting with a "Trust Registry" chaincode. It exposes endpoints to manage governance and trust records on the distributed ledger.
